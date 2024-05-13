@@ -1,6 +1,6 @@
 //扮演一個服務器的角色
 import axios from "axios";
-const API_URL = "http://localhost:8080/api/user";
+const API_URL = "https://project9-m-8c9af52ea241.herokuapp.com/api/user";
 
 class AuthService {
   //登入系統
